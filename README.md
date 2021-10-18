@@ -6,5 +6,7 @@ Assumptions:
 2. There are no numbers included in the input file
 
 Longest word found: ethylenediaminetetraacetates
+
 Second longest word found: electroencephalographically
+
 Total number of compound words found: 97107
