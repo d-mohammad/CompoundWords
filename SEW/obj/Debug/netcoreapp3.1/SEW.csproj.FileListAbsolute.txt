@@ -1,0 +1,16 @@
+C:\Users\dania\source\repos\SEW\SEW\bin\Debug\netcoreapp3.1\SEW.exe
+C:\Users\dania\source\repos\SEW\SEW\bin\Debug\netcoreapp3.1\SEW.deps.json
+C:\Users\dania\source\repos\SEW\SEW\bin\Debug\netcoreapp3.1\SEW.runtimeconfig.json
+C:\Users\dania\source\repos\SEW\SEW\bin\Debug\netcoreapp3.1\SEW.runtimeconfig.dev.json
+C:\Users\dania\source\repos\SEW\SEW\bin\Debug\netcoreapp3.1\SEW.dll
+C:\Users\dania\source\repos\SEW\SEW\bin\Debug\netcoreapp3.1\SEW.pdb
+C:\Users\dania\source\repos\SEW\SEW\obj\Debug\netcoreapp3.1\SEW.csproj.AssemblyReference.cache
+C:\Users\dania\source\repos\SEW\SEW\obj\Debug\netcoreapp3.1\SEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dania\source\repos\SEW\SEW\obj\Debug\netcoreapp3.1\SEW.AssemblyInfoInputs.cache
+C:\Users\dania\source\repos\SEW\SEW\obj\Debug\netcoreapp3.1\SEW.AssemblyInfo.cs
+C:\Users\dania\source\repos\SEW\SEW\obj\Debug\netcoreapp3.1\SEW.csproj.CoreCompileInputs.cache
+C:\Users\dania\source\repos\SEW\SEW\obj\Debug\netcoreapp3.1\SEW.dll
+C:\Users\dania\source\repos\SEW\SEW\obj\Debug\netcoreapp3.1\SEW.pdb
+C:\Users\dania\source\repos\SEW\SEW\obj\Debug\netcoreapp3.1\SEW.genruntimeconfig.cache
+C:\Users\dania\source\repos\SEW\SEW\bin\Debug\netcoreapp3.1\TestInputSets\shortTest.txt
+C:\Users\dania\source\repos\SEW\SEW\bin\Debug\netcoreapp3.1\TestInputSets\testSet.txt
